@@ -3,4 +3,4 @@ node_modules/
 # Ignore log file   
 *.log        
 # Ignore environment file        
-                                                            node_modules/                                                                                                   # Ignore log file                                                                                                       *.log                                                                                                                                  # Ignore node_modules folder          
+withdraw.html
